@@ -54,3 +54,13 @@ body {
   background: #E7E7E7;
   font-size: 1.8em;
 }
+
+#tile1, #tile2, #tile3 {
+	background-color: grey;
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+	font-weight: bold;
+}
